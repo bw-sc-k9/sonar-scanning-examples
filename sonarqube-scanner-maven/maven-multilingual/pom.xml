@@ -16,7 +16,7 @@
     <maven.compiler.target>11</maven.compiler.target>
     <maven.compiler.source>11</maven.compiler.source>
     <java.version>11</java.version>
-    <kotlin.version>1.4.10</kotlin.version>
+    <kotlin.version>1.9.24</kotlin.version>
     <sonar.sources>src/main/java,src/main/kotlin</sonar.sources>
     <sonar.tests>src/test/java,src/test/kotlin</sonar.tests>
   </properties>
